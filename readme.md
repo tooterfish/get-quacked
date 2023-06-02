@@ -43,12 +43,14 @@ We built this game as our final project for the [Northcoders](https://northcoder
 
 ### Installation
 
+Note: this repo is cloned so it's visible in my profile. The original can be found at https://github.com/nc-debug-thugs/get-quacked
+
 To run _Get quacked!_ locally:
 
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/amparoamparo/get-quacked.git
+   git clone https://github.com/tooterfish/get-quacked
    ```
 
 2. Install NPM packages
